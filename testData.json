@@ -1,0 +1,29 @@
+{
+  "rows":[
+    {
+        "phoneNumber" : "1414232145",
+        "password" : "PracticeProject"
+
+    },
+    {
+        "phoneNumber" : "8888779179",
+        "password" : "PracticeProject@1"
+    },
+    {
+        "phoneNumber" : "8888779179",
+        "password" : "PracticeProject@123"
+    },
+    {
+      "prodName" : "Laptop"
+    },
+    {
+      "fName" : "Aishwarya B",
+      "phone" : "8888779179",
+      "pincode" : "411045",
+      "aptAdd" : "Sai Heritage",
+      "areaAdd" : "Sinhgad Road",
+      "landmark" : "Navale Bridge",
+      "message" : "Beware of Cats"
+    }
+  ]
+}
